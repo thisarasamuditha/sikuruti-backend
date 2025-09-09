@@ -1,4 +1,4 @@
-#SQL login bypass
+# SQL login bypass
 ## Database schema
 
 ```sql
