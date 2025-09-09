@@ -27,9 +27,7 @@ VALUES ('john', 'johnpass', 'John Doe', 'john@example.com', '0779876543');
 
 ## URL
 
-```http://localhost:4000/login
-
-```
+http://localhost:4000/login
 
 ## request body for login request
 
